@@ -8,6 +8,7 @@ import org.slf4j.LoggerFactory;
 import net.mebdadev.mc_enchantments.enchantments.LumberjackHandler;
 import net.mebdadev.mc_enchantments.enchantments.ModEnchantments;
 import net.mebdadev.mc_enchantments.enchantments.VeinMinerHandler;
+import net.mebdadev.mc_enchantments.enchantments.MagnetHandler;
 import net.mebdadev.mc_enchantments.enchantments.SkyboundHandler;
 
 
@@ -26,5 +27,6 @@ public class SimpleEnchantments implements ModInitializer {
 		LumberjackHandler.register();
 		VeinMinerHandler.register();
 		SkyboundHandler.register();
+		MagnetHandler.register();
 	}
 }
