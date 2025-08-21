@@ -9,6 +9,7 @@ import net.mebdadev.mc_enchantments.enchantments.LumberjackHandler;
 import net.mebdadev.mc_enchantments.enchantments.ModEnchantments;
 import net.mebdadev.mc_enchantments.enchantments.VeinMinerHandler;
 import net.mebdadev.mc_enchantments.enchantments.MagnetHandler;
+import net.mebdadev.mc_enchantments.enchantments.SwiftSwimHandler;
 import net.mebdadev.mc_enchantments.enchantments.SkyboundHandler;
 
 
@@ -28,5 +29,6 @@ public class SimpleEnchantments implements ModInitializer {
 		VeinMinerHandler.register();
 		SkyboundHandler.register();
 		MagnetHandler.register();
+		SwiftSwimHandler.register();
 	}
 }

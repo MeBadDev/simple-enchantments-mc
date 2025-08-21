@@ -7,4 +7,7 @@
   "enchantment.simple-enchantments.skybound.desc": "Jump higher and take less fall damage",
   "enchantment.simple-enchantments.magnet": "Magnet",
   "enchantment.simple-enchantments.magnet.desc": "Pulls in nearby dropped items"
+  ,
+  "enchantment.simple-enchantments.swift_swim": "Swift Swim",
+  "enchantment.simple-enchantments.swift_swim.desc": "Increases swim speed and underwater mining while submerged"
 }

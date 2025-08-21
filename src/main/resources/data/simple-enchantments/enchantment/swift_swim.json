@@ -1,0 +1,12 @@
+{
+  "description": { "text": "Swift Swim" },
+  "supported_items": "#minecraft:leg_armor",
+  "primary_items": "#minecraft:leg_armor",
+  "weight": 8,
+  "max_level": 2,
+  "min_cost": { "base": 10, "per_level_above_first": 12 },
+  "max_cost": { "base": 30, "per_level_above_first": 18 },
+  "anvil_cost": 2,
+  "slots": ["legs"],
+  "effects": {}
+}
