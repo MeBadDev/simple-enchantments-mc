@@ -7,6 +7,7 @@ import org.slf4j.LoggerFactory;
 
 import net.mebdadev.mc_enchantments.enchantments.LumberjackHandler;
 import net.mebdadev.mc_enchantments.enchantments.ModEnchantments;
+import net.mebdadev.mc_enchantments.enchantments.VeinMinerHandler;
 
 
 
@@ -22,6 +23,7 @@ public class SimpleEnchantments implements ModInitializer {
 	public void onInitialize() {
 		ModEnchantments.initialize();
 		LumberjackHandler.register();
-		LOGGER.info("Simple Enchantments mod initialized with Lumberjack handler!");
+		VeinMinerHandler.register();
+		LOGGER.info("Simple Enchantments mod initialized with Lumberjack & Vein Miner handlers!");
 	}
 }
