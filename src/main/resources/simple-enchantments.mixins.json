@@ -2,8 +2,10 @@
 	"required": true,
 	"package": "net.mebdadev.mc_enchantments.mixin",
 	"compatibilityLevel": "JAVA_21",
+	"refmap": "simple-enchantments-refmap.json",
 	"mixins": [
-		"ExampleMixin"
+		"ExampleMixin",
+		"SkyboundLivingEntityDamageMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1

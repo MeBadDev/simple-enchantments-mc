@@ -2,5 +2,7 @@
   "enchantment.simple-enchantments.lumberjack": "Lumberjack",
   "enchantment.simple-enchantments.lumberjack.desc": "Break one log, and the whole tree falls",
   "enchantment.simple-enchantments.vein_miner": "Vein Miner",
-  "enchantment.simple-enchantments.vein_miner.desc": "Mines all connected ores of the same type. Consumes durability per block."
+  "enchantment.simple-enchantments.vein_miner.desc": "Mines all connected ores of the same type. Consumes durability per block.",
+  "enchantment.simple-enchantments.skybound": "Skybound",
+  "enchantment.simple-enchantments.skybound.desc": "Jump higher and take less fall damage"
 }
